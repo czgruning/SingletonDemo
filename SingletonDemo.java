@@ -149,7 +149,7 @@ public class SingletonDemo {
 	 */
 	enum Singleton{
 		INSTANCE;
-		public void whateverMethod(){
+		public void anyMethodBySaiSai(){
 			
 		}
 	}
